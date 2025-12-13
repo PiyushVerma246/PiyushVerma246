@@ -9,13 +9,6 @@
 
    <h2 align="center">📊 My GitHub Stats</h2>
 
-<table align="center">
-  <tr>
-    <!-- MAIN STATS CARD (BIG BOX) -->
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-  </tr>
 
   <tr>
     <!-- STREAK (SMALL BOX) -->
@@ -28,12 +21,52 @@
     </td>
   </tr>
 
-  
+<table align="center">
+  <tr>
+    <!-- LEFT BIG CARD -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+    </td>
+    <!-- RIGHT BIG CARD -->
+    <td>
+      <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <a href="https://github.com/PiyushVerma246">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/piyush-verma-11041a297/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://piyushverma246.github.io/Portfolio/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PiyushVerma246&theme=radical&no-frame=true&row=1" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
