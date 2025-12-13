@@ -1,5 +1,10 @@
 ## 🚀 Skills & Tools
 
+## 🛠️ My Tech Stack
+
+![Skills Banner](https://github.com/PiyushVerma246/PiyushVerma246/blob/main/linkedin%20banner%20new_page-0001.jpg)
+
+
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
