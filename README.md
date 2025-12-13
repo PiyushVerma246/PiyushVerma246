@@ -1,34 +1,21 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=PiyushVerma246)](https://git.io/streak-stats)
-
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+![Skills Banner](https://github.com/PiyushVerma246/PiyushVerma246/blob/main/linkedin%20banner%20new_page-0001.jpg)
+<h1 align="center">
   Hi👋 This is Piyush ,
 </h1>
-<table> <tr> <td>
 
-🔗 Social Profiles
-
-🐙 GitHub → @PiyushVerma246
-
-💼 LinkedIn → Piyush Verma
-
-𝕏 X / Twitter → @piyushverma
-
-✉️ Email → piyush@example.com
-
-🌐 Portfolio → Visit Website
-
-📝 Dev.to → @piyush
-
-</td> </tr> </table>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=github_dark&hide_border=true" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+Node.js+%7C+Cloud;Always+Learning+New+Tech" />
 </p>
 
    <h2 align="center">📊 My GitHub Stats</h2>
 
+<table align="center">
+  <tr>
+    <!-- MAIN STATS CARD (BIG BOX) -->
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+  </tr>
 
   <tr>
     <!-- STREAK (SMALL BOX) -->
@@ -41,52 +28,12 @@
     </td>
   </tr>
 
-<table align="center">
-  <tr>
-    <!-- LEFT BIG CARD -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-    </td>
-    <!-- RIGHT BIG CARD -->
-    <td>
-      <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
-    </td>
-  </tr>
+  
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <a href="https://github.com/PiyushVerma246">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/piyush-verma-11041a297/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://piyushverma246.github.io/Portfolio/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushVerma246&theme=radical&no-frame=true&row=1" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -151,4 +98,3 @@
 </table>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=dark&hide_border=true" width="48%" /> </p>
