@@ -7,13 +7,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+Node.js+%7C+Cloud;Always+Learning+New+Tech" />
 </p>
 
-<h2 align="center">📊 My GitHub Stats</h2>
+   <h2 align="center">📊 My GitHub Stats</h2>
 
 <table align="center">
   <tr>
     <!-- MAIN STATS CARD (BIG BOX) -->
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/apiusername=PiyushVerma246&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=radical&hide_border=true" />
     </td>
   </tr>
 
@@ -22,15 +22,17 @@
     <td>
       <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
     </td>
-    <!-- TOP LANGUAGES (SMALL BOX) -->
+  <!-- TOP LANGUAGES (SMALL BOX) -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
+
+  
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
 </p>
 
 
