@@ -2,7 +2,25 @@
 <h1 align="center">
   Hi👋 This is Piyush ,
 </h1>
+<table> <tr> <td>
 
+🔗 Social Profiles
+
+🐙 GitHub → @PiyushVerma246
+
+💼 LinkedIn → Piyush Verma
+
+𝕏 X / Twitter → @piyushverma
+
+✉️ Email → piyush@example.com
+
+🌐 Portfolio → Visit Website
+
+📝 Dev.to → @piyush
+
+</td> </tr> </table>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=github_dark&hide_border=true" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+Node.js+%7C+Cloud;Always+Learning+New+Tech" />
 </p>
