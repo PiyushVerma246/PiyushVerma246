@@ -3,6 +3,9 @@
   Hi👋 This is Piyush ,
 </h1>
 
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+Node.js+%7C+Cloud;Always+Learning+New+Tech" />
 </p>
@@ -12,28 +15,51 @@
 <table align="center">
   <tr>
     <!-- MAIN STATS CARD (BIG BOX) -->
+    <td>
+      <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
+    </td>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=github_dark&hide_border=true" />
     </td>
   </tr>
 
   <tr>
     <!-- STREAK (SMALL BOX) -->
-    <td>
-      <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
-    </td>
   <!-- TOP LANGUAGES (SMALL BOX) -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=github_dark&hide_border=true&card_width=500" />
+    </td>
+    <td>
+      <h2 align="center">🤝 Let’s Connect</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png"/><br/>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YOUR-USERNAME" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/48/github.png"/><br/>
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:yourmail@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail.png"/><br/>
+        Gmail
+      </a>
     </td>
   </tr>
-
+</table>
+  </tr>
   
 </table>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&theme=react-dark&hide_border=true" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
@@ -96,5 +122,7 @@
     </td>
   </tr>
 </table>
+
+
 
 
