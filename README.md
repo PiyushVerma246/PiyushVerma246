@@ -1,5 +1,5 @@
 ![Skills Banner](https://github.com/PiyushVerma246/PiyushVerma246/blob/main/linkedin%20banner%20new_page-0001.jpg)
-<h1 align="center">
+<!-- <h1 align="center">
   Hi👋 This is Piyush ,
 </h1>
 
@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Web+Developer;React+%7C+Node.js+%7C+Cloud;Always+Learning+New+Tech" />
-</p>
+</p> 
 
-   <h2 align="center">📊 My GitHub Stats</h2>
+   <h2 align="center">📊 My GitHub Stats</h2> -->
 
 <table align="center">
   <tr>
@@ -18,7 +18,7 @@
     <td>
       <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
     </td>
-    <td colspan="2">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=github_dark&hide_border=true" />
     </td>
   </tr>
