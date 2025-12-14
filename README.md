@@ -99,6 +99,7 @@
   <tr>
     <!-- MAIN STATS CARD (BIG BOX) -->
     <td>
+       <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=github_dark&hide_border=true" />
