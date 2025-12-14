@@ -93,7 +93,7 @@
 
 
 
-<h2>🔰 GitHub Stat's</h2>
+<h2>🔰 GitHub Stats</h2>
 
 <table align="center">
   <tr>
