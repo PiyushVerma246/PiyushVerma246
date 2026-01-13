@@ -93,52 +93,6 @@
 
 
 
-<h2>🔰 GitHub Stats</h2>
 
-<table align="center">
-  <tr>
-    <!-- MAIN STATS CARD (BIG BOX) -->
-   <td>
-      <img src="https://streak-stats.demolab.com?user=PiyushVerma246&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PiyushVerma246&show_icons=true&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
+ 
 
-  <tr>
-    <!-- STREAK (SMALL BOX) -->
-  <!-- TOP LANGUAGES (SMALL BOX) -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushVerma246&layout=compact&theme=github_dark&hide_border=true&card_width=500" />
-    </td>
-    <td>
-      <h2 align="center">🤝 Let’s Connect</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/YOUR-LINK/" target="_blank">
-        <img src="https://img.icons8.com/color/48/linkedin.png"/><br/>
-        LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YOUR-USERNAME" target="_blank">
-        <img src="https://img.icons8.com/ios-glyphs/48/github.png"/><br/>
-        GitHub
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:yourmail@gmail.com">
-        <img src="https://img.icons8.com/color/48/gmail.png"/><br/>
-        Gmail
-      </a>
-    </td>
-  </tr>
-</table>
-  </tr>
-  
-</table>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PiyushVerma246&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
